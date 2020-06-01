@@ -45,7 +45,7 @@ import re
 
 ```
 
-##　
+##　計算公式結果(函數 eval()  )
 ```
     eval(df_formular_text)
     
